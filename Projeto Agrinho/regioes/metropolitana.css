@@ -1,0 +1,70 @@
+.titulo {
+	text-align: center;
+	margin-top: 30px;
+}
+
+.titulo2 {
+	text-align: center;
+	margin-top: 50px;
+}
+
+
+.img-muriqui-do-sul {
+	text-align: center;
+}
+
+.critico {
+	text-align: center;
+	margin-top: 10px;
+}
+
+.distribuicao-muriqui-do-sul {
+	text-align: center;
+}
+
+.sobre {
+	font-size: 20px;
+	text-align: center;
+	margin-right: 160px;
+	margin-left: 160px;
+	margin-top: 60px;
+}
+
+.titulo-caracteristicas {
+	text-align: center;
+	margin-top: 80px;
+}
+
+.caracteristicas {
+	font-size: 20px;
+	text-align: center;
+	margin-right: 160px;
+	margin-left: 160px;
+	margin-top: 60px;
+}
+
+.titulo-conservacao {
+	text-align: center;
+	margin-top: 80px;
+}
+
+.conservacao {
+	font-size: 20px;
+	text-align: center;
+	margin-right: 160px;
+	margin-left: 160px;
+	margin-top: 60px;
+}
+
+.titulo-iniciativa {
+	text-align: center;
+	margin-top: 100px;
+}
+
+.iniciativa {
+	font-size: 20px;
+	text-align: center;
+	margin-right: 160px;
+	margin-left: 160px;
+	margin-top: 40px;
+}
